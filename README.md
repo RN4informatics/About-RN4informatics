@@ -35,8 +35,6 @@ Tools: Jupyter, GitHub
 
 🧰 Tools and technologies I use:
 
-<img width="93" height="28" alt="image" src="https://github.com/user-attachments/assets/b965072c-84ee-481e-aea2-8d9b67878056" />
-<img width="148" height="28" alt="image" src="https://github.com/user-attachments/assets/95cafda8-2a4f-4592-b033-ad95d7a2781e" />
-<img width="98" height="28" alt="image" src="https://github.com/user-attachments/assets/9471c063-30ce-42c3-a05d-5a6bc5706fab" />
+Microsoft office, Excel, Visio
 
 EHR programs:  Cerner, EPIC, McKesson, Meditech, CPRS, VISTA, Innovian by Draeger
