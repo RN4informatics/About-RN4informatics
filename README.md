@@ -13,8 +13,6 @@ I'm a nurse who has enjoyed travel nursing and being an EPIC and Cerner Superuse
 
 🌱 I’m currently learning: all about data science (working on a Master's in data science at Belhaven University) and how to make epoxy resin art
 
-💜 Interests: swimming, crafting, painting, playing guitar
-
 ⚡ Fun fact: I have owned 2 Honda motorcycles (a Rebel and a Shadow Spirit)
 
 
