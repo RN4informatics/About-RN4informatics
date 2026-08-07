@@ -1,7 +1,9 @@
-README.md
+RN4informatics - README.md
 
 👋About Me
 I'm a nurse who has enjoyed travel nursing and being an EPIC and Cerner Superuser for conversions from one EHR system to another.
+
+---
 
 🔭 I’m currently working on: using Python for fun projects
 
@@ -16,6 +18,7 @@ I'm a nurse who has enjoyed travel nursing and being an EPIC and Cerner Superuse
 ⚡ Fun fact: I have owned 2 Honda motorcycles (a Rebel and a Shadow Spirit)
 
 
+---
 🎓 Certifications & Awards:
 
 Critical Care Registered Nurse (CCRN)
@@ -25,16 +28,20 @@ Daisy Award Nominee
 LEAN yellow belt certified
 
 
-
+---
 🌱  Tools and technologies I'm learning:
 
 Languages: Python, SQL
 Libraries: pandas, NumPy, scikit-learn, matplotlib
 Tools: Jupyter, GitHub
 
+---
+
 📊  Tools and technologies I use:
 
 Microsoft Office, Excel, Visio
+
+---
 
 🧰EHR programs:  
 
